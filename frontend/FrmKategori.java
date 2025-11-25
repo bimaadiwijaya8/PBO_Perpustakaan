@@ -214,3 +214,4 @@ public class FrmKategori extends javax.swing.JFrame {
         });
     }
 }
+
